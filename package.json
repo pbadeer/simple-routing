@@ -1,0 +1,10 @@
+{
+  "name": "simple-routing",
+  "version": "0.0.1",
+  "description": "Simple example of using Node, Express, and Angular together while letting Angular handle URL routing.",
+  "main": "server.js",
+  "author": "Preston Badeer",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
